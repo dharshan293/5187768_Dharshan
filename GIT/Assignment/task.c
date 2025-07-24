@@ -3,4 +3,5 @@ for(int i=0;i<n;i++)
 {
     print("day1");
     int i=0;
+    int j=1;
 }
