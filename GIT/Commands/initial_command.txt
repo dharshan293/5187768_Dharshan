@@ -1,0 +1,22 @@
+git clone
+---------------------
+git init
+git pull
+git add
+git status
+git commit -m "<commit message>"
+Igit hfog
+git push
+---------------------
+main
+-Dev ->Dev testing
+  |-FeatureBranching 
+    -TaskBranching ->PR : Lead review -> Merge Dev
+    -TaskBranching2
+    -TaskBranching3
+
+-QA -> QA testing
+
+-Stage -> QA testing -> client testing/Sprint Demo
+
+-Prod -< Go live
