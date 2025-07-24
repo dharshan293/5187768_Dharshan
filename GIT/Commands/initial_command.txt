@@ -2,11 +2,16 @@ git clone
 ---------------------
 git init
 git pull
+git diff
 git add
 git status
 git commit -m "<commit message>"
-Igit hfog
+git log
 git push
+git branch <branch name>
+git checkout <bn>
+git diff <b1> <b2>
+git merge <bn>
 ---------------------
 main
 -Dev ->Dev testing
