@@ -1,5 +1,0 @@
-This is from main branch 
- int i=0;i<l;i++
-
-This is from branch1 branch
-hope we successfully created a new branch and make some changes
