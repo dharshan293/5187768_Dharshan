@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -17,3 +18,10 @@
 
 This is from main branch2
  hope we successfully created the another new branch called branch2
+=======
+This is from main branch 
+ int i=0;i<l;i++
+
+This is from branch1 branch
+hope we successfully created a new branch and make some changes
+>>>>>>> d18bb12419c019a0e8a4877b1707298c27163fe9
